@@ -1,4 +1,6 @@
-## Hi there 👋
+## Pyre at heart, Zen in soul.
+
+<img src="https://counter.pyre-z.me/@pyre-z_pyre-z?name=pyre-z_pyre-z&theme=morden-num&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" />
 
 <!--
 **pyre-z/pyre-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
