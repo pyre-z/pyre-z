@@ -1,6 +1,6 @@
 <a href="https://github.com/pyre-z"><img src="./sayhi.svg" align="left" alt="Hello, I'm PyreZ" /></a>
 
-<img src="https://count.pyre-z.me/@pyre-z?theme=sylvie&padding=1&align=center&scale=1&darkmode=auto" height="125" align="right" alt="Visitor counter" />
+<img src="https://count.pyre-z.me/@pyre-z?theme=sylvie&padding=1&align=center&scale=1&darkmode=auto" height="100" align="right" alt="Visitor counter" />
 
 <br clear="left" />
 
