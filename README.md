@@ -35,4 +35,4 @@
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=ffffff)](https://redis.io/)
 
 #### AI Token Usage
-<img src="https://count.pyre-z.me/token/@?theme=github&lang=zh&grain=year&darkmode=auto&scale=1.5&bg=1" height="150" alt="AI Token Usage" />
+<img src="https://count.pyre-z.me/token/@?theme=github&lang=zh&grain=auto&scale=1.5&bg=1&darkmode=auto" height="150" alt="AI Token Usage" />
