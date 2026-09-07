@@ -6,8 +6,6 @@
 
 *Pyre at heart, Zen in soul.*
 
-## Tech Stack
-
 #### Languages & Frameworks
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=ffffff)](https://isocpp.org/)
@@ -35,3 +33,6 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)](https://www.linux.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=ffffff)](https://www.postgresql.org/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=ffffff)](https://redis.io/)
+
+#### AI Token Usage
+<img src="https://count.pyre-z.me/token/@?theme=github&lang=zh&grain=year&darkmode=auto&scale=1.5&bg=1" height="150" alt="AI Token Usage" />
